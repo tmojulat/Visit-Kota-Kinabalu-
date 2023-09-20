@@ -13,12 +13,20 @@ body {
   display: block;
 }
 @media (max-width: 560px) {
+  h2 {
+    text-align: center;
+  }
   p {
     text-align: center;
   }
 
   .col-md-6 {
     display: contents;
+  }
+  .project-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
   }
 }
 

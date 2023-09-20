@@ -112,9 +112,15 @@ p {
 }
 .navbar {
   display: flex;
-  flex-wrap: inherit;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+}
+li {
+  display: list-item;
+}
+.navbar-nav {
+  list-style: none;
 }
 .container {
   width: 100%;

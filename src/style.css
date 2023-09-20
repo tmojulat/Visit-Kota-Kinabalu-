@@ -151,6 +151,7 @@ li {
 }
 .mb-3 {
   margin-block-start: 0px !important;
+  text-align: center;
 }
 .mt-5 {
   margin-top: 2.5rem !important;

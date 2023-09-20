@@ -12,6 +12,16 @@ body {
   background: rgb(241, 243, 244);
   display: block;
 }
+@media (max-width:560px){
+  p {text-align: center;}
+
+  .col-md-6 {
+    display: contents;
+  }
+
+  }
+
+}
 
 h1 {
   color: #c20ab9;
